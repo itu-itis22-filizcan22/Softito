@@ -1,4 +1,4 @@
-# SoftITo AI Software Engineering Track
+# SoftITo AI Software Engineering 
 
 This repository contains structured implementations, hands-on labs, and applied engineering modules developed throughout the SoftITo AI Software Development Program. The track bridges core computer engineering fundamentals with modern data pipelines, autonomous agent architectures, and production MLOps workflows.
 
