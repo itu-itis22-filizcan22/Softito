@@ -84,11 +84,9 @@ A comprehensive, end-to-end production AI system incorporating custom pipelines,
    ```bash
    git clone [https://github.com/YOUR_GITHUB_USERNAME/softito-ai-engineering.git](https://github.com/YOUR_GITHUB_USERNAME/softito-ai-engineering.git)
 
-Initialize and activate a virtual environment: 
      python3 -m venv .venv
      source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-Install track dependencies: pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 🛠️ Tech Stack
